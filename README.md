@@ -28,8 +28,4 @@ cd SirManishKumar
 
 bash setup.sh
 
-USERNAME = MNS
-
-PASSWORD = ?
-
 That it your work is done
