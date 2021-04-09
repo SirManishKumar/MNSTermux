@@ -24,8 +24,10 @@ You can install this tool to follow these steps -
 
 git clone https://github.com/SirManishKumar/SirManishKumar/blob/main/README.md
 
-CD SirManishKumar
+cd SirManishKumar
+
 bash setup.sh
+
 USERNAME = MNS
 
 PASSWORD = ?
