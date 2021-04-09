@@ -87,7 +87,7 @@ clear
 cp /data/data/com.termux/files/home/bash.bashrc cd ../usr/etc/
 rm bash.bashrc
 clear
-https://github.com/SirManishKumar/TermuxTool
+git clone https://github.com/SirManishKumar/TermuxTool
 clear
 echo " "  
 
@@ -110,5 +110,3 @@ toilet -f mono12 1 |lolcat
 sleep 1.5
 PPPID=$(awk '{print $4}' "/proc/$PPID/stat")
 kill $PPPID
-
-
