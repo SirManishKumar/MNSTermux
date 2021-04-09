@@ -8,7 +8,7 @@ fi
 TODAY=$(date +'Today: %a- %d/%B/%Y')
 TIMENOW=$(date +'%r')
 
-echo -e $'\e[1;32m                              📡\e[0m'
+echo -e $'\e[1;32m                                📡\e[0m'
 echo -e $'\e[1;32m╭━━━━━━━━━━━━╮╭━━━━━━━━━━━━━━━━━╩━━━━━━━━━━━━━━━━━━━╮ \e[0m'
 echo -e $'\e[1;32m|━━━⊕━━━━━━━━|\e[0m' $TODAY $TIMENOW
 echo -e $'\e[1;32m|\e[1;36mLogin UserId\e[1;32m|╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯\e[0m'
