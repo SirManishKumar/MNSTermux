@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+TermuxLogin
+
+Protect your terminal with this tool
+
+Hola Friend
+
+You can install this tool to follow these steps -
+
+CD TERMUX_LOGIN
+bash setup.sh
+USERNAME = ARO
+
+PASSWORD = ?
+
+That it your work is done
