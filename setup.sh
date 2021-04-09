@@ -64,8 +64,7 @@ echo -e "==========================================================
 " |lolcat
 sleep 3.5
 clear
-cd TermuxLogin
-cp login.py /$HOME
+cd SirManishKumar
 cp bash.bashrc /$HOME
 cd
 chmod +x login.py
