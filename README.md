@@ -2,11 +2,17 @@ Termux Welcome Screen Make Awesome.
 
 Hello Friend
 
-You can install this tool to follow these steps -
+You can install this tool to follow these steps-
 
-git clone https://github.com/SirManishKumar/SirManishKumar
+apt update -y
 
-cd SirManishKumar
+apt upgrade -y
+
+apt install git -y
+
+git clone https://github.com/SirManishKumar/TermuxMNS
+
+cd TermuxMNS
 
 bash setup.sh
 
