@@ -64,7 +64,7 @@ echo -e "==========================================================
 " |lolcat
 sleep 3.5
 clear
-cd SirManishKumar
+cd TermuxMNS
 cp bash.bashrc /$HOME
 cd
 cd ../usr/etc
