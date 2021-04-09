@@ -1,6 +1,6 @@
 Termux Welcome Screen Make Awesome.
 
-Hola Friend
+Hello Friend
 
 You can install this tool to follow these steps -
 
