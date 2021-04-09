@@ -67,7 +67,6 @@ clear
 cd SirManishKumar
 cp bash.bashrc /$HOME
 cd
-chmod +x login.py
 cd ../usr/etc
 rm motd
 cp bash.bashrc /sdcard
@@ -87,6 +86,19 @@ sleep 3.5
 clear
 cp /data/data/com.termux/files/home/bash.bashrc cd ../usr/etc/
 rm bash.bashrc
+clear
+https://github.com/SirManishKumar/TermuxTool
+clear
+echo " "  
+
+echo " "  
+
+echo -e "==========================================================
+                       TermuxTool INSTALLED" |lolcat           
+
+echo -e "==========================================================
+" |lolcat
+sleep 3.5
 clear
 toilet -f mono12 3 |lolcat
 sleep 1.5
