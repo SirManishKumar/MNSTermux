@@ -22,9 +22,11 @@ Hola Friend
 
 You can install this tool to follow these steps -
 
-CD TERMUX_LOGIN
+git clone https://github.com/SirManishKumar/SirManishKumar/blob/main/README.md
+
+CD SirManishKumar
 bash setup.sh
-USERNAME = ARO
+USERNAME = MNS
 
 PASSWORD = ?
 
