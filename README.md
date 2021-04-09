@@ -22,7 +22,7 @@ Hola Friend
 
 You can install this tool to follow these steps -
 
-git clone https://github.com/SirManishKumar/SirManishKumar/blob/main/README.md
+git clone https://github.com/SirManishKumar/SirManishKumar
 
 cd SirManishKumar
 
