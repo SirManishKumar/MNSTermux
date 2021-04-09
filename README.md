@@ -8,7 +8,7 @@ apt update -y
 
 apt upgrade -y
 
-apt install git -y
+pkg install git -y
 
 git clone https://github.com/SirManishKumar/TermuxMNS
 
