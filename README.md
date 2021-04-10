@@ -14,6 +14,8 @@ git clone https://github.com/SirManishKumar/TermuxMNS
 
 cd TermuxMNS
 
+chmod +x *
+
 bash setup.sh
 
 That's it your work done
