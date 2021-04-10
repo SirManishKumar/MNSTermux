@@ -16,4 +16,4 @@ cd TermuxMNS
 
 bash setup.sh
 
-That it your work is done
+That's it your work done
