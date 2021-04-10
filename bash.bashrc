@@ -19,7 +19,7 @@ echo -e $'\e[1;32m|\e[1;34mM09554988808\e[1;32m|\e[1;37m * Upgrade packages:  pk
 echo -e $'\e[1;32m|\e[1;31mLogin Server\e[1;32m|\e[1;37m * Root:              pkg install root-repo \e[0m'
 echo -e $'\e[1;32m|\e[1;33m Malaysia   \e[1;32m|\e[1;37m * Unstable:          pkg install unstable-repo \e[0m'
 echo -e $'\e[1;32m| \e[1;31m 120.0.0.1 \e[1;32m|\e[1;37m * X11:               pkg install x11-repo \e[0m'
-echo -e $'\e[1;32m|━━━━━ㅇ━━━━━|\e[1;37m * fix-broken:        apt –fix-broken install \e[0m'
+echo -e $'\e[1;32m|━━━━━○━━━━━|\e[1;37m * fix-broken:        apt –fix-broken install \e[0m'
 echo -e $'\e[1;32m╰━━━━━━━━━━━━╯\e[1;36m                __ \e[0m'
 echo -e $'\e[1;36m          ____  _            |  |        __  __ _   _  ____ \e[0m'
 echo -e $'\e[1;36m         / ___|(_)_ __    ___|  |___    |  \/  | \ | |/ ___| \e[0m'
