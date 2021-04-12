@@ -10,9 +10,9 @@ apt upgrade -y
 
 pkg install git -y
 
-git clone https://github.com/SirManishKumar/TermuxMNS
+git clone https://github.com/SirManishKumar/MNSTermux
 
-cd TermuxMNS
+cd MNSTermux
 
 chmod +x *
 
