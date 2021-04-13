@@ -6,8 +6,7 @@ clear
 echo " "
 echo " "
 echo "==========================================================" |lolcat
-echo "                     ALL  UPGRADE" |lolcat
-
+echo "                    ALL  UPGRADE" |lolcat
 echo "==========================================================" |lolcat
 sleep 3.5
 clear
@@ -17,9 +16,8 @@ echo " "
 
 echo " "  
 
-echo "=========================================================
-                      ALL  UPDATE" |lolcat                 
-
+echo "==========================================================
+                          ALL  UPDATE" |lolcat
 echo "==========================================================
 " |lolcat
 sleep 3.5
@@ -30,9 +28,8 @@ echo " "
 
 echo " "  
 
-echo -e "=========================================================
-                   NEOFETCH INSTALLED" |lolcat                
-
+echo -e "==========================================================
+                         NEOFETCH INSTALLED" |lolcat                
 echo -e "==========================================================
 " |lolcat
 sleep 3.5
@@ -43,9 +40,8 @@ echo " "
 
 echo " "   
 
-echo "========================================================== 
-                 PYTHON.INSTALLED" |lolcat            
-
+echo -e "========================================================== 
+                          PYTHON.INSTALLED" |lolcat            
 echo -e "==========================================================
 " |lolcat
 pip install lolcat
@@ -58,8 +54,7 @@ echo " "
 echo " "  
 
 echo -e "==========================================================
-                TOILET INSTALLED" |lolcat           
-
+                           TOILET INSTALLED" |lolcat           
 echo -e "==========================================================
 " |lolcat
 sleep 3.5
@@ -78,8 +73,7 @@ echo " "
 echo " "          
 
 echo -e "==========================================================
-           YOUR OLD BASH.BASHRC FILE IS SAVED IN SDCARD" |lolcat
-
+                YOUR OLD BASH.BASHRC FILE IS SAVED IN SDCARD" |lolcat
 echo -e "==========================================================
 " |lolcat
 sleep 3.5
@@ -94,8 +88,7 @@ echo " "
 echo " "  
 
 echo -e "==========================================================
-                       TermuxTool INSTALLED" |lolcat           
-
+                        TermuxTool INSTALLED" |lolcat           
 echo -e "==========================================================
 " |lolcat
 sleep 3.5
