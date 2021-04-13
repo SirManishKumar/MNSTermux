@@ -31,7 +31,7 @@ echo -e $'\e[1;37m | |\/| |/ _` | `_ \| / __| `_ \| ` / | | | `_ ` _ \ / _` | `_
 echo -e $'\e[1;37m | |  | | (_| | | | | \__ \ | | | . \ |_| | | | | | | (_| | | \e[0m'
 echo -e $'\e[1;32m |_|  |_|\__,_|_| |_|_|___/_| |_|_|\_\__,_|_| |_| |_|\__,_|_| \e[0m'
 echo -e $'\e[1;32m╭━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╮ \e[0m'
-echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/TermuxLock  \e[0m'
+echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/MNSTermux  \e[0m'
 echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[0m'
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
 
