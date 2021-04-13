@@ -59,7 +59,7 @@ echo -e "==========================================================
 " |lolcat
 sleep 3.5
 clear
-cd TermuxMNS
+cd MNSTermux
 cp bash.bashrc /$HOME
 cd
 cd ../usr/etc
@@ -81,7 +81,7 @@ clear
 cp /data/data/com.termux/files/home/bash.bashrc cd ../usr/etc/
 rm bash.bashrc
 clear
-git clone https://github.com/SirManishKumar/TermuxTool
+git clone https://github.com/SirManishKumar/MNSTools
 clear
 echo " "  
 
