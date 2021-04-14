@@ -81,14 +81,20 @@ clear
 cp /data/data/com.termux/files/home/bash.bashrc cd ../usr/etc/
 rm bash.bashrc
 clear
+apt update && apy upgrade -y
+pkg install python -y
+pkg install git -y
 git clone https://github.com/SirManishKumar/MNSTools
+mv MNSTools $HOME
+cd && cd MNSTools && chmod +x install.py
+cd
 clear
 echo " "  
 
 echo " "  
 
 echo -e "==========================================================
-                        TermuxTool INSTALLED" |lolcat           
+                        MNSTools INSTALLED" |lolcat           
 echo -e "==========================================================
 " |lolcat
 sleep 3.5
