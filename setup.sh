@@ -232,7 +232,7 @@ clear
 cp /data/data/com.termux/files/home/bash.bashrc cd ../usr/etc/
 rm bash.bashrc
 clear
-apt update && apy upgrade -y
+apt update && apt upgrade -y
 pkg install python -y
 pkg install git -y
 git clone https://github.com/SirManishKumar/MNSTools
